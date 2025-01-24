@@ -1,1 +1,1 @@
-#birdsslider - A carousel slider with smooth animation
+#birdsslider - Carousel with Bird's picture and smooth transition
